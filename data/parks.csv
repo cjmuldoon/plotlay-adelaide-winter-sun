@@ -1,0 +1,71 @@
+name,osm_id,kind,area_m2,mean_h,under_2h_pct
+"Heddle Court",w677634763,garden,106,0,100
+"Gawler Place Courtyard",w1386974456,park,677,0.89,93.6
+"Green Gate Community Garden",w782270358,garden,305,1.03,74.1
+"Maths Lawns",r4848487,park,2269,1.21,72.5
+"Kitchen Garden",w1344692774,garden,1329,1.73,59.6
+"Margaret Street Garden",w71102129,park,355,3.95,0
+"Pfitzner Court",w341536980,park,199,4.07,0
+"Walter Young Gardens",w341524860,park,761,4.14,0
+"Hindmarsh Square",r13040624,park,13209,4.14,17.4
+"Eremophila Garden",w1346803470,garden,1272,4.58,0
+"Goodman Lawns",w145551992,park,692,4.88,0
+"Victoria Square/Tartanyangga",w1336429555,square,44834,5.03,0.8
+"Adelaide - Qingdao Rose Garden",w1483591944,garden,426,5.16,0
+"Whitmore Square",w679957023,park,24196,5.29,1.3
+"Elder Park / Tarntanya Wama (Park 26)",r20408975,park,258958,5.43,5.3
+"Frome Park",w604849229,park,15188,5.51,5.3
+"Brougham Gardens / Tantutitingga (Park 29)",r2310276,park,52571,5.68,1.9
+"Adelaide Botanic Gardens",w14306406,garden,213314,5.69,2.3
+"Barr Smith Lawns",w242491163,park,2204,5.71,0
+"Hurtle Square",r2573738,park,18184,5.73,0
+"Light Square",w194852575,park,12846,5.79,0
+"Peppermint Park / Wita Wirra (Park 18)",w4681783,park,85064,5.83,0.1
+"Veale Park / Waylu Yarta (Park 21)",w4681776,park,303983,5.88,0.3
+"Rose Garden",w333397952,garden,765,5.88,0
+"Red Gum Park / Karrawirra (Park 12)",r2630648,park,283213,5.89,0.7
+"Bundey's Paddock / Tidlangga (Park 9)",w81798998,park,60255,5.92,0.6
+"Roma Mitchell Garden",w1505021565,garden,15879,5.93,0.4
+"Bullrush Park / Warnpangga (Park 10)",r2623520,park,186935,5.93,0.6
+"Denise Norton Park / Pardipardinyilla (Park 2)",r13678209,park,159091,5.93,0.9
+"Kate Cocks Park",r20598794,garden,15968,5.93,0
+"Rundle Park / Kadlitpina (Park 13)",w4681807,park,64779,5.94,0.2
+"Blue Gum Park / Kurangga (Park 20)",r3417013,park,300562,5.94,0.3
+"Botanic Park",r19596485,park,271100,5.94,0.5
+"Adelaide Himeji Japanese Garden",w333403457,garden,2542,5.97,0
+"Northern Palm Garden",w1373923571,garden,4583,5.97,0
+"Ellis Park / Tampawardli (Park 24)",w4681556,park,333961,5.98,0.1
+"Josie Agius Park / Wikaparntu Wirra (Park 22)",w4681560,park,146129,5.98,0.2
+"Golden Wattle Park / Mirnu Wirra (Park 21W)",w4681773,park,300651,5.98,0.1
+"Pelzer Park / Pityarilla (Park 19)",w4681780,park,212751,5.98,0.1
+"Rymill Park / Murlawirrapurka (Park 14)",w4681804,park,147566,5.98,0.2
+"Bragg Park / Ngampa Yarta (Park 5)",w118711425,park,74431,5.98,0.1
+"Carriageway Park / Tuthangga (Park 17)",r20409034,park,335834,5.98,0.2
+"G S Kingston Park / Wirrarninthi (Park 23)",r20751955,park,285592,5.98,0.1
+"Gladys Elphick Park (Park 25)",w4681557,park,245439,5.99,0.1
+"King Rodney Park / Ityamai-itpina (Park 15)",w4681799,park,184400,5.99,0.1
+"Victoria Park/ Pakapakanthi (Park 16)",w81798589,park,720193,5.99,0.1
+"Park 4",w81799032,park,95180,5.99,0.1
+"Classgrounds",w1344692773,garden,5390,5.99,0
+"Wellington Square",r2312622,park,27292,5.99,0
+"Palmer Gardens / Pangki Pangki (Park 28)",r2312628,park,20460,5.99,0
+"Lefevre Park / Nantu Wama (Park 6)",r4112760,park,409722,5.99,0
+"Mary Lee Park (Park 27B)",r20407900,park,72747,5.99,0.1
+"The Olive Groves / Parngutilla (Park 8)",w81799006,park,19158,6,0
+"Lower North Adelaide Soldiers Memorial Gardens",w200090991,park,4970,6,0
+"Esther Lipman Garden",w220682844,garden,503,6,0
+"Walyu Yarta Community Garden",w333397951,garden,342,6,0
+"Mistletoe Park / Tainmuntilla (Park 11)",w459940438,park,85716,6,0
+"Park Terrace Community Garden",w1013640211,garden,650,6,0
+"Pioneer Women's Memorial Garden",w1232089221,garden,1275,6,0
+"Mediterranean Garden",w1344668230,garden,2092,6,0
+"Sunken Garden",w1344678216,garden,612,6,0
+"Economic Garden",w1344692093,garden,8394,6,0
+"Garden of Health",w1344740424,garden,998,6,0
+"Plane Tree Lawns",w1373906875,garden,4570,6,0
+"Araucaria Avenue",w1373912018,garden,9832,6,0
+"Kingston Gardens",w1505709040,garden,874,6,0
+"Yam Daisy Park / Kantarilla (Park 3)",r13678208,park,32271,6,0
+"The Olive Groves / Kuntingga (Park 7)",r16074305,park,26896,6,0
+"John E Brown Park (Park 27A)",r20407901,park,155428,6,0
+"Pinky Flat",r20601972,park,27809,6,0

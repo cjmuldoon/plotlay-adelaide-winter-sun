@@ -1,0 +1,380 @@
+name,metres,mean_h,under_2h_pct,under_1h_pct,runs,kind
+"Imperial Place",64,0,100,100,north-south,unclassified
+"Exchange Lane",77,0,100,100,north-south,pedestrian
+"Bray Street",62,0.07,100,100,east-west,residential
+"Hilltop Hoods Lane",76,0.08,100,100,north-south,residential
+"Station Arcade",72,0.11,100,100,north-south,pedestrian
+"CBS Court",66,0.14,100,97,east-west,pedestrian
+"Rundle Mall",549,0.17,100,92,east-west,pedestrian
+"McHenry Street",88,0.18,97.7,90.9,east-west,living_street unclassified
+"Albert Street",97,0.22,92.8,90.7,east-west,residential
+"York Street",176,0.25,98.3,86.4,east-west,residential
+"Dawkins Place",188,0.34,90.4,86.7,east-west,residential
+"Exchange Place",92,0.34,100,100,north-south,living_street
+"Paul Kelly Lane",95,0.38,100,75.8,north-south,pedestrian
+"James Place",151,0.42,100,94.7,north-south,pedestrian
+"Rundle Street",482,0.48,92.9,79.9,east-west,tertiary
+"Fenn Place",153,0.53,100,64.1,north-south,pedestrian
+"Thomas Street",143,0.56,88.8,84.6,east-west,unclassified
+"Red Lane",62,0.61,85.5,72.6,east-west,residential
+"Watson Street",64,0.63,79.7,73.4,east-west,residential
+"First Street",61,0.66,80.3,78.7,east-west,residential
+"Pitt Street",173,0.78,95.4,49.7,north-south,residential
+"Charlick Circuit",160,0.78,88.8,66.9,east-west,living_street residential
+"Hamilton Place",106,0.83,81.1,74.5,east-west,residential
+"Liberman Close",69,0.83,95.7,50.7,north-south,living_street
+"Playhouse Lane",109,0.86,78,77.1,east-west,residential
+"Bank Street",152,0.87,88.8,66.4,north-south,living_street
+"Francis Street",99,0.88,96,66.7,north-south,pedestrian
+"Blyth Street",152,0.89,86.2,73.7,north-south,residential
+"Ebenezer Place",105,0.89,88.6,61,east-west,residential
+"Wigg Lane",72,0.89,80.6,76.4,east-west,residential
+"Penny Place",69,0.91,89.9,40.6,north-south,residential
+"Gilles Arcade",79,0.97,88.6,49.4,north-south,residential
+"French Street",61,0.99,72.1,49.2,east-west,residential
+"Kingston Street",62,1,85.5,64.5,north-south,residential
+"Vardon Avenue",133,1.01,76.7,62.4,east-west,residential
+"Solomon Street",96,1.01,66.7,57.3,east-west,residential
+"Maxwell Street",130,1.02,76.2,66.9,east-west,residential
+"Francis Street East",78,1.02,85.9,65.4,east-west,residential
+"Colombo Plan Alumni Court",153,1.07,76.5,54.2,north-south,pedestrian
+"Mocatta Place",92,1.08,72.8,62,east-west,residential
+"Stafford Street",159,1.09,69.8,63.5,east-west,residential
+"Victoria Street",152,1.1,92.1,33.6,north-south,residential
+"Old Treasury Lane",101,1.12,77.2,70.3,east-west,residential
+"Synagogue Place",72,1.15,91.7,33.3,north-south,residential
+"Peel Street",151,1.16,92.7,31.8,north-south,pedestrian
+"Gresham Street",151,1.19,85.4,62.3,north-south,residential
+"Moger Lane",63,1.2,68.3,46,north-south,residential
+"No Fixed Address Lane",74,1.21,89.2,13.5,north-south,pedestrian
+"Kenton Street",64,1.28,65.6,57.8,east-west,residential
+"Young Street",155,1.3,80,35.5,north-south,residential
+"Høj Plaza",101,1.31,73.3,42.6,north-south,pedestrian
+"Gilles Lane",149,1.35,87.2,58.4,north-south,residential
+"Pope Street",79,1.36,73.4,51.9,east-west,residential
+"Bentham Street",158,1.37,85.4,2.5,north-south,unclassified
+"Bent Street",151,1.38,86.8,29.8,north-south,residential
+"Nelson Place",74,1.38,63.5,45.9,north-south,residential
+"Topham Mall",144,1.39,66,50,north-south,pedestrian residential
+"Edwards Place",78,1.42,92.3,10.3,north-south,residential
+"Alfred Street",238,1.43,72.3,58.4,east-west,residential
+"Wilson Street",144,1.43,64.6,59,east-west,residential
+"Nelson Street",90,1.44,57.8,32.2,north-south,residential
+"Tatham Street",157,1.49,82.2,6.4,north-south,residential
+"Austin Street",168,1.52,72.6,58.3,east-west,residential
+"McKay Mews",80,1.54,70,65,east-west,residential
+"Gawler Place",766,1.57,75.8,12.3,north-south,residential pedestrian unclassified living_street
+"Spencer Street",96,1.57,60.4,36.5,east-west,residential
+"Divett Place",164,1.58,78,7.9,north-south,residential
+"Charlotte Place",130,1.64,63.1,53.1,east-west,residential
+"Chesser Street",146,1.65,67.1,13.7,north-south,residential pedestrian
+"Sudholz Place",176,1.68,54.5,49.4,north-south,residential
+"Ifould Street",556,1.69,68.2,62.8,east-west,residential
+"Hindley Street",1124,1.72,66,54.1,east-west,tertiary secondary
+"Cannon Street",147,1.72,66,42.2,north-south,residential
+"Queen's Court",61,1.75,55.7,45.9,east-west,unclassified
+"Leigh Street",151,1.75,45.7,21.2,north-south,pedestrian
+"Rose Street",173,1.76,54.3,49.1,east-west,unclassified residential
+"Coromandel Place",146,1.78,59.6,11.6,north-south,residential
+"Chapel Street",105,1.78,57.1,41.9,east-west,residential
+"Rosina Street",152,1.8,61.8,36.2,north-south,residential
+"Lombard Street",64,1.83,54.7,32.8,east-west,residential
+"Churchill Street",74,1.84,60.8,58.1,east-west,residential
+"Kent Street",70,1.84,40,22.9,north-south,residential
+"Grenfell Street",1921,1.86,56.5,40.6,east-west,secondary
+"Hudson Street",76,1.88,71.1,52.6,east-west,residential
+"Holland Street",128,1.91,48.4,46.9,east-west,residential
+"Peppertree Lane",156,1.91,48.1,40.4,east-west,residential
+"Franklin Street",1651,1.94,60.6,48.2,east-west,tertiary
+"Finniss Court",65,1.94,58.5,1.5,east-west,residential
+"Charles Street",74,1.95,68.9,50,north-south,pedestrian
+"Flinders Street",1742,1.95,59.5,46.2,east-west,tertiary
+"Royal Place",106,1.95,56.6,39.6,north-south,residential
+"Tam O'Shanter Place",251,1.98,57.4,39,east-west,residential
+"Register Street",79,1.99,40.5,39.2,north-south,unclassified
+"Hyde Street",306,2,51.6,21.2,north-south,residential
+"Murrays Lane",79,2.01,60.8,15.2,north-south,residential
+"Pirie Street",1088,2.02,60.6,52.9,east-west,tertiary
+"Union Street",152,2.1,17.8,3.3,north-south,residential
+"Tucker Street",219,2.11,47.5,26.5,east-west,residential
+"Sydney Place",60,2.11,35,13.3,north-south,residential
+"Archer Place",88,2.11,47.7,18.2,east-west,residential
+"Liverpool Street",151,2.12,41.1,29.8,north-south,residential
+"Tormore Place",131,2.12,55,35.9,east-west,residential
+"Eliza Street",157,2.15,41.4,2.5,north-south,residential
+"Hume Street",154,2.15,51.3,40.3,east-west,residential
+"Gover Place",141,2.15,42.6,29.8,north-south,residential
+"Wyatt Street",308,2.17,43.2,7.5,north-south,residential unclassified
+"Philip Street",463,2.17,54.9,50.5,east-west,residential
+"Waymouth Street",1126,2.18,51.2,41.5,east-west,tertiary
+"Bailey Street",103,2.25,55.3,0,north-south,residential
+"William Buik Court",116,2.25,43.1,14.7,east-west,residential
+"Roneo Place",146,2.3,51.4,49.3,east-west,residential
+"Ann Street",72,2.32,23.6,0,north-south,residential
+"Princess Street",152,2.34,15.8,13.8,north-south,residential
+"Vaughan Place",162,2.35,53.1,18.5,east-west,pedestrian
+"Surflen Street",149,2.36,43,12.1,north-south,residential
+"Moonta Street",154,2.36,20.8,14.3,north-south,pedestrian
+"Park Lane",80,2.4,46.3,40,east-west,residential
+"Australia Lane",91,2.4,65.9,0,north-south,residential
+"Tynte Place",132,2.43,44.7,18.2,east-west,residential
+"Reeces Lane",139,2.45,42.4,18,east-west,residential
+"Wellington Close",110,2.45,57.3,20,north-south,residential
+"Hobsons Place",157,2.47,31.2,0,north-south,residential
+"Kermode Street",538,2.48,45.7,37.4,east-west,residential tertiary
+"Roper Street",165,2.49,54.5,0,north-south,residential
+"Colley Street",75,2.49,36,0,north-south,residential
+"Frew Street",155,2.5,26.5,0,north-south,unclassified
+"Lincoln Lane",92,2.52,46.7,0,east-west,residential
+"Andrew Street",133,2.55,51.1,48.1,east-west,residential
+"Tapley Street",70,2.55,45.7,10,north-south,residential
+"Coglin Street",155,2.56,28.4,13.5,north-south,unclassified
+"Harriett Street",154,2.58,20.8,0,north-south,residential
+"Boulton Mews",60,2.6,40,23.3,east-west,residential
+"Barton Place",60,2.6,36.7,26.7,east-west,residential
+"Dimora Court",110,2.62,39.1,24.5,east-west,residential
+"Ely Place",206,2.65,37.4,23.8,east-west,residential
+"Crowther Street",154,2.66,26,0,north-south,residential
+"Shannon Place",154,2.66,27.3,0,north-south,residential
+"Lohrman Street",79,2.66,45.6,0,north-south,residential
+"Old Street",293,2.67,47.4,34.1,east-west,residential
+"Stephens Street",217,2.73,27.2,24.4,north-south,residential
+"Nil Street",157,2.73,40.1,31.2,east-west,residential
+"Cromwell Street",78,2.77,14.1,1.3,north-south,residential
+"Vinrace Street",359,2.78,29,14.5,east-west,residential
+"Wright Court",203,2.79,27.1,22.2,north-south,unclassified
+"Owen Street",150,2.8,24.7,2,north-south,residential
+"Toms Court",72,2.81,25,2.8,north-south,residential
+"Abbott Lane",148,2.81,27.7,14.2,north-south,residential
+"Carrington Street",1550,2.82,35.9,24.5,east-west,tertiary
+"Gilbert Street",1104,2.83,37.7,29,east-west,tertiary
+"Pope Court",128,2.86,47.7,44.5,north-south,residential
+"Bice Courtyard",81,2.9,25.9,0,north-south,pedestrian
+"Delhi Street",214,2.91,38.3,15.9,east-west,residential
+"McLaren Street",349,2.92,33.8,21.5,east-west,residential
+"Storr Street",160,2.94,28.1,0,north-south,residential
+"Worsnop Avenue",111,2.95,37.8,32.4,east-west,residential
+"Frederick Street",150,2.95,27.3,0,north-south,residential
+"Marian Street",107,2.97,29.9,19.6,east-west,residential
+"Daly Street",157,3.01,13.4,1.9,north-south,residential
+"Wright Street",1058,3.03,33.8,21.6,east-west,tertiary
+"Field Street",154,3.04,4.5,3.2,north-south,residential
+"Ranelagh Street",73,3.05,0,0,north-south,residential
+"John Street",149,3.05,0,0,north-south,residential
+"Cairns Street",153,3.07,35.9,25.5,east-west,residential
+"Frederick Place",123,3.07,32.5,26.8,north-south,residential
+"Curtin Lane",69,3.09,31.9,21.7,north-south,residential
+"Dunn Street",148,3.1,17.6,0,north-south,residential
+"Francis Street West",92,3.11,27.2,15.2,east-west,residential
+"Queen Street",300,3.14,10,0,north-south,residential
+"St Helena Place",149,3.14,2,2,north-south,residential
+"Currie Street",2057,3.15,39.6,33.1,east-west,secondary
+"Sussex Street",464,3.15,31.5,18.8,east-west,residential
+"Cardwell Lane",63,3.15,33.3,30.2,east-west,residential
+"Clarendon Street",150,3.15,6.7,5.3,north-south,unclassified
+"Millers Court",64,3.16,9.4,1.6,north-south,residential
+"Symonds Place",313,3.19,27.8,0,north-south,residential
+"Halls Place",111,3.19,29.7,16.2,east-west,residential
+"Petronella Lane",96,3.23,19.8,18.8,north-south,residential
+"Moore Street",152,3.24,7.2,0,north-south,residential
+"Neales Place",83,3.26,22.9,19.3,east-west,residential
+"George Court",157,3.29,3.2,0,north-south,residential
+"Palmer Lane",76,3.29,25,21.1,east-west,residential
+"Gilles Street",1904,3.29,33.8,25,east-west,tertiary
+"Russell Street",311,3.31,0.6,0,north-south,residential
+"Mill Street",161,3.31,8.1,6.8,north-south,unclassified
+"Taskers Lane",83,3.31,24.1,15.7,north-south,residential
+"Bewes Street",154,3.33,11,0,north-south,residential
+"Walter Street",285,3.33,22.5,16.1,north-south,residential
+"Queens Close",79,3.36,39.2,20.3,east-west,residential
+"Mansfield Street",155,3.37,11.6,0,north-south,residential
+"Figtree Court",109,3.38,22.9,12.8,east-west,residential
+"Cardiff Street",67,3.41,0,0,north-south,residential
+"Provost Street",234,3.42,15.8,2.1,east-west,residential
+"Eden Street",154,3.43,0,0,north-south,residential
+"Collins Street",83,3.44,18.1,0,north-south,residential
+"Archer Street",809,3.44,26,14,east-west,residential
+"Devonshire Place",95,3.46,0,0,north-south,residential
+"South Terrace",2826,3.47,26.3,16.1,east-west,tertiary secondary
+"Bower Street",95,3.48,7.4,0,north-south,residential
+"Pennington Terrace",576,3.48,27.3,14.2,east-west,residential
+"Strangways Place",95,3.48,13.7,11.6,north-south,residential
+"Ada Street",172,3.49,16.9,14.5,north-south,residential
+"Lois Lane",60,3.49,16.7,0,north-south,residential
+"Market Street",154,3.5,2.6,0,north-south,unclassified
+"Gray Court",156,3.51,13.5,1.3,north-south,residential
+"King William Street",2509,3.59,18.1,0,north-south,secondary
+"Newmarket Street",102,3.6,0,0,north-south,unclassified
+"Porter Street",108,3.6,36.1,8.3,east-west,residential
+"Ehmckes Lane",77,3.62,0,0,north-south,residential
+"O'Halloran Street",153,3.65,17.6,0.7,north-south,residential
+"Osmond Street",76,3.65,0,0,north-south,residential
+"Gouger Street",1438,3.66,25.4,19.8,east-west,tertiary
+"Bartels Street",157,3.68,0,0,north-south,residential
+"Hurman Street",79,3.7,6.3,6.3,north-south,residential
+"Ruthven Avenue",69,3.72,20.3,4.3,north-south,residential
+"Market Plaza Arcade",106,3.75,21.7,15.1,east-west,pedestrian
+"Grote Street",2063,3.77,21,14.5,east-west,secondary
+"Charlotte Street",151,3.78,9.9,0,north-south,residential
+"Gladstone Street",75,3.78,1.3,0,north-south,residential
+"Curtis Street",155,3.79,4.5,0,north-south,residential
+"Gover Place West",73,3.79,26,0,north-south,residential
+"Howard Florey Street",152,3.8,2,0,north-south,residential
+"Sultram Place",76,3.8,0,0,north-south,residential
+"Monck Lane",61,3.8,26.2,0,north-south,residential
+"North Terrace",4259,3.81,28.2,19.5,east-west,secondary
+"Winifred Street",151,3.82,10.6,0,north-south,residential
+"Gray Street",792,3.82,1,0,north-south,residential
+"Avoca Street",85,3.84,3.5,0,north-south,residential
+"Hart Street",79,3.84,12.7,0,north-south,residential
+"Morney Street",173,3.85,0,0,north-south,residential
+"Bagot Street",149,3.85,0,0,north-south,residential
+"Catherine Helen Spence Street",152,3.86,0,0,north-south,residential
+"Edith Place",73,3.87,8.2,4.1,north-south,residential
+"Allen Place",185,3.89,5.4,2.2,north-south,residential
+"North Street",148,3.89,0,0,north-south,unclassified
+"Pulsford Lane",60,3.89,13.3,0,north-south,residential
+"Mellor Street",74,3.9,0,0,north-south,residential unclassified
+"Lakeman Street",147,3.9,0,0,north-south,residential
+"Gibbon Lane",150,3.91,0,0,north-south,residential
+"Gunson Street",157,3.92,0,0,north-south,residential
+"Saunders Lane",64,3.93,26.6,15.6,east-west,residential
+"East Pallant Street",156,3.93,16.7,0.6,north-south,residential
+"West Pallant Street",156,3.93,10.3,0,north-south,residential
+"New Street",153,3.93,11.8,0,north-south,residential
+"Little Archer Street",81,3.94,0,0,north-south,residential
+"Selby Street",155,3.95,0,0,north-south,residential
+"Wakefield Street",2303,3.96,22.2,14.4,east-west,secondary
+"Lowe Street",156,3.97,0,0,north-south,residential
+"Compton Street",151,3.97,0,0,north-south,residential
+"Glandfield Court",60,3.97,30,1.7,north-south,residential
+"Childers Court",60,3.98,25,0,north-south,residential
+"Brougham Court",107,3.99,5.6,0,north-south,residential
+"Travers Place",69,3.99,0,0,north-south,residential
+"Sturt Street",1118,4.03,21.1,13.2,east-west,tertiary
+"Myers Street",75,4.03,2.7,1.3,north-south,residential
+"Grattan Street",153,4.03,0,0,north-south,residential
+"Hallett Street",152,4.05,0,0,north-south,residential
+"Elizabeth Street",304,4.12,5.9,0,north-south,residential
+"Fenchurch Street",152,4.13,0,0,north-south,residential
+"Cambridge Street",154,4.13,0,0,north-south,residential
+"Boulton Street",154,4.15,4.5,1.3,north-south,residential
+"Blackburn Street",152,4.15,0,0,north-south,residential
+"Davies Place",81,4.15,27.2,0,north-south,residential
+"Tower Street North",150,4.16,0,0,north-south,residential
+"Corryton Street",309,4.18,0,0,north-south,residential
+"Wakeham Street",105,4.19,0,0,north-south,unclassified
+"Cypress Street",170,4.19,2.4,0,north-south,residential
+"St Lukes Place",63,4.21,0,0,north-south,residential
+"Frome Street",1107,4.21,12.2,0,north-south,tertiary
+"Kate Court",155,4.22,0,0,north-south,residential
+"Margaret Street",90,4.23,0,0,north-south,residential
+"Ralston Street",151,4.24,0,0,north-south,residential
+"Angas Street",2011,4.24,19.2,16.2,east-west,tertiary
+"Vincent Street",152,4.27,0,0,north-south,residential
+"Louisa Street",151,4.27,3.3,3.3,north-south,residential
+"Margaret Street North",303,4.28,0,0,north-south,residential
+"Addie Place",62,4.28,0,0,north-south,residential
+"Margaret Street South",271,4.28,0,0,north-south,residential
+"Beviss Street",153,4.3,0,0,north-south,residential
+"Oakley Street",171,4.31,0,0,north-south,residential
+"Marion Street",156,4.33,0,0,north-south,residential
+"Munks Place",78,4.33,0,0,north-south,residential
+"Ashley Street",61,4.34,0,0,north-south,residential
+"Makin Place",73,4.35,0,0,north-south,residential
+"Botanic Road",254,4.36,16.9,4.7,east-west,secondary
+"Port Road",79,4.37,0,0,east-west,primary
+"Castle Street",105,4.37,0,0,north-south,residential
+"O'Brien Street",155,4.38,0,0,north-south,residential
+"Little Gilbert Street",155,4.39,0,0,north-south,residential
+"Cardwell Street",605,4.41,0,0,north-south,residential
+"Willcox Street",151,4.44,0,0,north-south,residential
+"Arthur Street",153,4.45,7.8,7.8,north-south,residential
+"Logan Street",154,4.46,0,0,north-south,residential
+"Norman Street",310,4.49,0,0,north-south,residential
+"Byron Place",329,4.49,0,0,north-south,residential
+"Hume Lane",186,4.49,17.7,15.1,east-west,residential
+"Edward Street",81,4.5,0,0,north-south,residential
+"Murray Street",153,4.5,0,0,north-south,residential
+"Halifax Street",2097,4.52,13.3,7.2,east-west,tertiary
+"Centenary Street",154,4.55,0,0,north-south,residential
+"Sir Edwin Smith Avenue",458,4.56,0,0,north-south,secondary
+"Tynte Street",851,4.58,10,3.5,east-west,tertiary
+"Harvey Street",163,4.6,16,0,north-south,residential
+"Claxton Street",155,4.61,0,0,north-south,residential
+"Victoria Square",1078,4.62,0,0,north-south,secondary unclassified
+"Regent Street South",86,4.62,0,0,north-south,residential
+"George Street",1003,4.62,20.1,13.3,east-west,residential pedestrian unclassified
+"Chatham Street",156,4.67,0,0,north-south,residential
+"Little Sturt Street",153,4.68,0,0,north-south,residential
+"Pulteney Street",1300,4.73,1.2,0,north-south,secondary
+"Kintore Avenue",505,4.74,0,0,north-south,tertiary secondary
+"Festival Drive",431,4.74,11.6,9,east-west,unclassified
+"Hindmarsh Square",312,4.76,0,0,north-south,unclassified
+"Tomsey Street",155,4.76,0,0,north-south,residential
+"Hurtle Square",535,4.79,4.7,1.5,north-south,residential
+"Gover Street",878,4.8,8.4,5.1,east-west,residential
+"Alder Close",81,4.81,0,0,north-south,residential
+"St. John Street",154,4.82,0,0,north-south,residential
+"Strangways Terrace",1194,4.84,3.5,2.3,east-west,residential tertiary
+"Melbourne Street",1122,4.86,5.3,0,east-west,secondary
+"Frome Road",1214,4.87,0,0,north-south,secondary
+"Royal Avenue",109,4.91,0,0,north-south,residential
+"Marlborough Street",172,4.94,0,0,north-south,residential
+"Mackinnon Parade",1579,4.94,2.5,0,east-west,residential tertiary secondary
+"Whitmore Square",943,4.95,6.5,5,north-south,secondary secondary_link tertiary residential
+"Jolley's Lane",64,4.95,0,0,north-south,unclassified
+"Hack Street",140,4.97,0,0,north-south,residential
+"St. John Lane",153,5.02,0,0,north-south,residential
+"Barnard Street",749,5.02,8.9,5.5,east-west,tertiary residential
+"Weil Street",85,5.03,0,0,north-south,residential
+"Power Street",154,5.05,0,0,north-south,residential
+"Gaol Road",192,5.07,0,0,north-south,unclassified
+"Brougham Place",1814,5.1,6.2,4.4,east-west,residential tertiary secondary
+"Buxton Street",574,5.1,6.4,1.9,east-west,residential
+"Morphett Street",1506,5.11,0.3,0.2,north-south,secondary
+"Fuller Street",93,5.13,0,0,north-south,residential
+"Hutt Road",99,5.14,0,0,north-south,secondary
+"Hamley Street",153,5.17,0,0,north-south,residential
+"Finniss Street",428,5.17,1.4,0,east-west,residential
+"King William Road",1175,5.3,0,0,north-south,secondary
+"O'Connell Street",1725,5.32,0,0,north-south,secondary
+"War Memorial Drive",806,5.32,1.6,0.4,east-west,unclassified tertiary
+"Bowen Street",256,5.39,0.8,0,north-south,residential
+"Blenheim Street",171,5.45,0,0,north-south,residential
+"Light Square",654,5.47,0.9,0.6,north-south,secondary unclassified secondary_link
+"Jerningham Street",457,5.48,0,0,north-south,tertiary
+"Ward Court",98,5.48,0,0,east-west,residential unclassified
+"Bundeys Road",261,5.48,3.8,0.8,east-west,tertiary
+"Regent Street North",193,5.52,0,0,north-south,tertiary
+"Montefiore Road",624,5.53,0,0,north-south,secondary
+"Ward Street",1475,5.66,1.4,0.8,east-west,tertiary
+"Plane Tree Drive",476,5.69,0,0,north-south,unclassified
+"Palmer Place",708,5.69,0,0,north-south,residential
+"Unley Road",95,5.71,0,0,north-south,secondary
+"Childers Street",839,5.72,0,0,east-west,residential
+"Hutt Street",2203,5.73,0,0,north-south,secondary
+"West Terrace",2949,5.75,0,0,north-south,primary
+"Goodwood Road",84,5.76,0,0,north-south,secondary
+"Stanley Street",1091,5.76,0,0,east-west,residential
+"Mills Terrace",1141,5.77,0,0,north-south,residential
+"Hill Street",713,5.77,0,0,north-south,residential
+"Priory Lane",74,5.8,0,0,north-south,residential
+"East Terrace",2653,5.82,0,0,north-south,residential secondary tertiary
+"Wellington Square",657,5.82,0,0,north-south,secondary
+"Mashy Street",229,5.83,0.4,0,east-west,unclassified
+"Glen Osmond Road",181,5.84,0,0,east-west,secondary
+"Jeffcott Street",1020,5.86,0,0,north-south,secondary
+"Ficus Avenue",111,5.91,0,0,north-south,pedestrian
+"Lefevre Terrace",784,5.95,0,0,north-south,tertiary
+"Molesworth Street",763,5.95,0,0,east-west,residential
+"Anzac Highway",139,5.97,0,0,north-south,primary
+"Barton Terrace West",916,5.99,0,0,east-west,unclassified residential tertiary
+"Rundle Road",160,5.99,0,0,east-west,secondary
+"Kingston Terrace",708,6,0,0,east-west,tertiary residential
+"Kingston Terrace East",192,6,0,0,east-west,residential
+"Victoria Drive",600,6,0,0,east-west,tertiary
+"Barton Terrace East",428,6,0,0,east-west,tertiary
+"Montefiore Hill",159,6,0,0,east-west,residential
+"Mann Terrace",281,6,0,0,north-south,residential
+"Karra Wirraparinangku",158,6,0,0,north-south,pedestrian

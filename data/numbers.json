@@ -1,0 +1,376 @@
+{
+ "question": "Which streets and parks in the City of Adelaide get under 2 hours of direct sun on the shortest day?",
+ "window": "21 June 2026, 9 am to 3 pm Adelaide time, sun positions every 15 minutes",
+ "osm_base": "2026-11-20T02:09:16Z",
+ "buildings_mapped": 7341,
+ "outlines": 7443,
+ "buildings": 7443,
+ "buildings_estimated": 708,
+ "cell_m": 1,
+ "cells": 21601152,
+ "sun_up_h": 6,
+ "engine_ms": 15868,
+ "open_ground": {
+  "m2": 13025285,
+  "mean_h": 5.16,
+  "under_2h_share": 0.099,
+  "under_1h_share": 0.073
+ },
+ "built_up_streets": {
+  "note": "street centrelines within 40 m of a building: the two street grids, not the roads through the Park Lands",
+  "metres": 142611,
+  "mean_h": 3.86,
+  "under_2h_share": 0.229,
+  "under_1h_share": 0.151,
+  "east_west": {
+   "metres": 70672,
+   "mean_h": 3.62,
+   "under_2h_share": 0.299,
+   "under_1h_share": 0.226
+  },
+  "north_south": {
+   "metres": 71939,
+   "mean_h": 4.09,
+   "under_2h_share": 0.161,
+   "under_1h_share": 0.077
+  }
+ },
+ "streets": {
+  "metres": 175119,
+  "mean_h": 4.24,
+  "under_2h_share": 0.187,
+  "under_1h_share": 0.123,
+  "named": 379,
+  "east_west": {
+   "metres": 83884,
+   "mean_h": 3.99,
+   "under_2h_share": 0.252
+  },
+  "north_south": {
+   "metres": 91235,
+   "mean_h": 4.48,
+   "under_2h_share": 0.127
+  }
+ },
+ "darkest_streets": [
+  {
+   "name": "Imperial Place",
+   "metres": 64,
+   "mean_h": 0,
+   "under_2h_pct": 100,
+   "under_1h_pct": 100,
+   "runs": "north-south",
+   "kind": "unclassified"
+  },
+  {
+   "name": "Exchange Lane",
+   "metres": 77,
+   "mean_h": 0,
+   "under_2h_pct": 100,
+   "under_1h_pct": 100,
+   "runs": "north-south",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "Bray Street",
+   "metres": 62,
+   "mean_h": 0.07,
+   "under_2h_pct": 100,
+   "under_1h_pct": 100,
+   "runs": "east-west",
+   "kind": "residential"
+  },
+  {
+   "name": "Hilltop Hoods Lane",
+   "metres": 76,
+   "mean_h": 0.08,
+   "under_2h_pct": 100,
+   "under_1h_pct": 100,
+   "runs": "north-south",
+   "kind": "residential"
+  },
+  {
+   "name": "Station Arcade",
+   "metres": 72,
+   "mean_h": 0.11,
+   "under_2h_pct": 100,
+   "under_1h_pct": 100,
+   "runs": "north-south",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "CBS Court",
+   "metres": 66,
+   "mean_h": 0.14,
+   "under_2h_pct": 100,
+   "under_1h_pct": 97,
+   "runs": "east-west",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "Rundle Mall",
+   "metres": 549,
+   "mean_h": 0.17,
+   "under_2h_pct": 100,
+   "under_1h_pct": 92,
+   "runs": "east-west",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "McHenry Street",
+   "metres": 88,
+   "mean_h": 0.18,
+   "under_2h_pct": 97.7,
+   "under_1h_pct": 90.9,
+   "runs": "east-west",
+   "kind": "living_street unclassified"
+  },
+  {
+   "name": "Albert Street",
+   "metres": 97,
+   "mean_h": 0.22,
+   "under_2h_pct": 92.8,
+   "under_1h_pct": 90.7,
+   "runs": "east-west",
+   "kind": "residential"
+  },
+  {
+   "name": "York Street",
+   "metres": 176,
+   "mean_h": 0.25,
+   "under_2h_pct": 98.3,
+   "under_1h_pct": 86.4,
+   "runs": "east-west",
+   "kind": "residential"
+  },
+  {
+   "name": "Dawkins Place",
+   "metres": 188,
+   "mean_h": 0.34,
+   "under_2h_pct": 90.4,
+   "under_1h_pct": 86.7,
+   "runs": "east-west",
+   "kind": "residential"
+  },
+  {
+   "name": "Exchange Place",
+   "metres": 92,
+   "mean_h": 0.34,
+   "under_2h_pct": 100,
+   "under_1h_pct": 100,
+   "runs": "north-south",
+   "kind": "living_street"
+  },
+  {
+   "name": "Paul Kelly Lane",
+   "metres": 95,
+   "mean_h": 0.38,
+   "under_2h_pct": 100,
+   "under_1h_pct": 75.8,
+   "runs": "north-south",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "James Place",
+   "metres": 151,
+   "mean_h": 0.42,
+   "under_2h_pct": 100,
+   "under_1h_pct": 94.7,
+   "runs": "north-south",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "Rundle Street",
+   "metres": 482,
+   "mean_h": 0.48,
+   "under_2h_pct": 92.9,
+   "under_1h_pct": 79.9,
+   "runs": "east-west",
+   "kind": "tertiary"
+  }
+ ],
+ "sunniest_streets": [
+  {
+   "name": "Karra Wirraparinangku",
+   "metres": 158,
+   "mean_h": 6,
+   "under_2h_pct": 0,
+   "under_1h_pct": 0,
+   "runs": "north-south",
+   "kind": "pedestrian"
+  },
+  {
+   "name": "Mann Terrace",
+   "metres": 281,
+   "mean_h": 6,
+   "under_2h_pct": 0,
+   "under_1h_pct": 0,
+   "runs": "north-south",
+   "kind": "residential"
+  },
+  {
+   "name": "Montefiore Hill",
+   "metres": 159,
+   "mean_h": 6,
+   "under_2h_pct": 0,
+   "under_1h_pct": 0,
+   "runs": "east-west",
+   "kind": "residential"
+  },
+  {
+   "name": "Barton Terrace East",
+   "metres": 428,
+   "mean_h": 6,
+   "under_2h_pct": 0,
+   "under_1h_pct": 0,
+   "runs": "east-west",
+   "kind": "tertiary"
+  },
+  {
+   "name": "Victoria Drive",
+   "metres": 600,
+   "mean_h": 6,
+   "under_2h_pct": 0,
+   "under_1h_pct": 0,
+   "runs": "east-west",
+   "kind": "tertiary"
+  }
+ ],
+ "streets_mostly_under_2h": 102,
+ "parks": {
+  "count": 70,
+  "under_2h_mean": 5,
+  "darkest": [
+   {
+    "name": "Heddle Court",
+    "osm_id": "w677634763",
+    "kind": "garden",
+    "area_m2": 106,
+    "mean_h": 0,
+    "under_2h_pct": 100
+   },
+   {
+    "name": "Gawler Place Courtyard",
+    "osm_id": "w1386974456",
+    "kind": "park",
+    "area_m2": 677,
+    "mean_h": 0.89,
+    "under_2h_pct": 93.6
+   },
+   {
+    "name": "Green Gate Community Garden",
+    "osm_id": "w782270358",
+    "kind": "garden",
+    "area_m2": 305,
+    "mean_h": 1.03,
+    "under_2h_pct": 74.1
+   },
+   {
+    "name": "Maths Lawns",
+    "osm_id": "r4848487",
+    "kind": "park",
+    "area_m2": 2269,
+    "mean_h": 1.21,
+    "under_2h_pct": 72.5
+   },
+   {
+    "name": "Kitchen Garden",
+    "osm_id": "w1344692774",
+    "kind": "garden",
+    "area_m2": 1329,
+    "mean_h": 1.73,
+    "under_2h_pct": 59.6
+   },
+   {
+    "name": "Margaret Street Garden",
+    "osm_id": "w71102129",
+    "kind": "park",
+    "area_m2": 355,
+    "mean_h": 3.95,
+    "under_2h_pct": 0
+   },
+   {
+    "name": "Pfitzner Court",
+    "osm_id": "w341536980",
+    "kind": "park",
+    "area_m2": 199,
+    "mean_h": 4.07,
+    "under_2h_pct": 0
+   },
+   {
+    "name": "Walter Young Gardens",
+    "osm_id": "w341524860",
+    "kind": "park",
+    "area_m2": 761,
+    "mean_h": 4.14,
+    "under_2h_pct": 0
+   },
+   {
+    "name": "Hindmarsh Square",
+    "osm_id": "r13040624",
+    "kind": "park",
+    "area_m2": 13209,
+    "mean_h": 4.14,
+    "under_2h_pct": 17.4
+   },
+   {
+    "name": "Eremophila Garden",
+    "osm_id": "w1346803470",
+    "kind": "garden",
+    "area_m2": 1272,
+    "mean_h": 4.58,
+    "under_2h_pct": 0
+   }
+  ],
+  "squares": [
+   {
+    "name": "Hindmarsh Square",
+    "osm_id": "r13040624",
+    "kind": "park",
+    "area_m2": 13209,
+    "mean_h": 4.14,
+    "under_2h_pct": 17.4
+   },
+   {
+    "name": "Victoria Square/Tartanyangga",
+    "osm_id": "w1336429555",
+    "kind": "square",
+    "area_m2": 44834,
+    "mean_h": 5.03,
+    "under_2h_pct": 0.8
+   },
+   {
+    "name": "Whitmore Square",
+    "osm_id": "w679957023",
+    "kind": "park",
+    "area_m2": 24196,
+    "mean_h": 5.29,
+    "under_2h_pct": 1.3
+   },
+   {
+    "name": "Hurtle Square",
+    "osm_id": "r2573738",
+    "kind": "park",
+    "area_m2": 18184,
+    "mean_h": 5.73,
+    "under_2h_pct": 0
+   },
+   {
+    "name": "Light Square",
+    "osm_id": "w194852575",
+    "kind": "park",
+    "area_m2": 12846,
+    "mean_h": 5.79,
+    "under_2h_pct": 0
+   },
+   {
+    "name": "Wellington Square",
+    "osm_id": "r2312622",
+    "kind": "park",
+    "area_m2": 27292,
+    "mean_h": 5.99,
+    "under_2h_pct": 0
+   }
+  ]
+ }
+}
